@@ -1,0 +1,144 @@
+{
+  "week_id": "2026-W45",
+  "starts_at": "2026-11-02T00:00:00+07:00",
+  "ends_at": "2026-11-09T00:00:00+07:00",
+  "finalized": true,
+  "generated_at": "2026-11-09T00:05:00Z",
+  "entries": [
+    {
+      "rank": 1,
+      "username": "pak_saloy",
+      "avatar_url": null,
+      "contributions": 35,
+      "verifications": 25,
+      "combined": 60,
+      "is_verifier": true
+    },
+    {
+      "rank": 2,
+      "username": "reviewer",
+      "avatar_url": null,
+      "contributions": 31,
+      "verifications": 21,
+      "combined": 52,
+      "is_verifier": true
+    },
+    {
+      "rank": 3,
+      "username": "admin_user",
+      "avatar_url": null,
+      "contributions": 29,
+      "verifications": 19,
+      "combined": 48,
+      "is_verifier": true
+    },
+    {
+      "rank": 4,
+      "username": "ibnul_mutaki",
+      "avatar_url": null,
+      "contributions": 37,
+      "verifications": 5,
+      "combined": 42,
+      "is_verifier": false
+    },
+    {
+      "rank": 5,
+      "username": "contributor",
+      "avatar_url": null,
+      "contributions": 33,
+      "verifications": 5,
+      "combined": 38,
+      "is_verifier": false
+    },
+    {
+      "rank": 6,
+      "username": "rosnah",
+      "avatar_url": null,
+      "contributions": 27,
+      "verifications": 4,
+      "combined": 31,
+      "is_verifier": false
+    },
+    {
+      "rank": 7,
+      "username": "aminah",
+      "avatar_url": null,
+      "contributions": 25,
+      "verifications": 3,
+      "combined": 28,
+      "is_verifier": false
+    },
+    {
+      "rank": 8,
+      "username": "hasan_sambas",
+      "avatar_url": null,
+      "contributions": 23,
+      "verifications": 3,
+      "combined": 26,
+      "is_verifier": false
+    },
+    {
+      "rank": 9,
+      "username": "nurul",
+      "avatar_url": null,
+      "contributions": 21,
+      "verifications": 3,
+      "combined": 24,
+      "is_verifier": false
+    },
+    {
+      "rank": 10,
+      "username": "bujang_darat",
+      "avatar_url": null,
+      "contributions": 19,
+      "verifications": 2,
+      "combined": 21,
+      "is_verifier": false
+    },
+    {
+      "rank": 11,
+      "username": "mayang",
+      "avatar_url": null,
+      "contributions": 17,
+      "verifications": 2,
+      "combined": 19,
+      "is_verifier": false
+    },
+    {
+      "rank": 12,
+      "username": "jawi_kecil",
+      "avatar_url": null,
+      "contributions": 15,
+      "verifications": 2,
+      "combined": 17,
+      "is_verifier": false
+    },
+    {
+      "rank": 13,
+      "username": "tok_awang",
+      "avatar_url": null,
+      "contributions": 13,
+      "verifications": 3,
+      "combined": 16,
+      "is_verifier": true
+    },
+    {
+      "rank": 14,
+      "username": "siti_halimah",
+      "avatar_url": null,
+      "contributions": 11,
+      "verifications": 1,
+      "combined": 12,
+      "is_verifier": false
+    },
+    {
+      "rank": 15,
+      "username": "kawan_kampung",
+      "avatar_url": null,
+      "contributions": 9,
+      "verifications": 1,
+      "combined": 10,
+      "is_verifier": false
+    }
+  ]
+}
